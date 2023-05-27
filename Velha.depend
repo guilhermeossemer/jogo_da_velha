@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673379128 source:c:\users\guilh\onedrive\Área de trabalho\analise desenvolvimentos de sistema\algoritimos\velha\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<stdio.h>
+
